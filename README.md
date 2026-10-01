@@ -1,4 +1,4 @@
-# Hi, I'm Zarin 👋
+# Hi, I'm Biash 👋
 
 **I turn messy data into structures people can use to decide things, and then I explain the result to the people who have to make those decisions.**
 
