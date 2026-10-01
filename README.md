@@ -1,4 +1,4 @@
-# Hi, I'm Biash 👋
+# Hi, I'm Biash. My friends call me Bee 🐝
 
 **I turn messy data into structures people can use to decide things, and then I explain the result to the people who have to make those decisions.**
 
