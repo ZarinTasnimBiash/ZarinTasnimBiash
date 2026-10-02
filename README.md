@@ -1,6 +1,6 @@
 # Hi, I'm Biash. My friends call me Bee 🐝
 
-**I turn messy data into structures people can use to decide things, and explain it clearly enough to support real decisions..**
+**I turn messy data into structures people can use to decide things, and explain it clearly enough to support real decisions.**
 
 I recently completed my MSc at **Uppsala University**, where I studied on the University's Global Scholarship and worked as a Graduate Teaching Assistant in Data Mining and Databases. Before Uppsala, I spent 2.5 years as a Lecturer at **BRAC University**, where I'd earlier finished my BSc with the Vice-Chancellor's Gold Medal in Computer Science.
 
